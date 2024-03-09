@@ -71,7 +71,7 @@ section.head{
 
 .texte2 p{
     color: white;
-    font-size: 14px;
+    font-size: 13px;
     letter-spacing: 1px;
 }
 .texte2 p .span1{
@@ -86,7 +86,7 @@ section.head{
     align-items: center;
     justify-content: space-around;
     width: 100%;
-   height: 100vh;
+    height: 100vh;
     background-color:#fff;
 }
 .presentation .item{
@@ -422,6 +422,54 @@ span{
     .texte2 p{
         font-size: 12px;
     }
+
+
+    .img img{
+        width: 60px;
+        margin-top: 8%;
+        border: 1px solid white;
+        background-color: #fff;
+        border-radius: 20px;
+        padding: 2px 25px;
+    }
+    
+    section.head{
+        background-color:#41828D;
+        height: 50vh;
+    }
+    
+    .texte{
+        display: flex;
+        justify-content: center;
+    }
+    
+    .texte p{
+        color: #fff;
+        border: 1px solid #605555;
+        padding: 10px 40px;
+        font-size: 20px;
+        background-color: #605555;
+    }
+    
+    .texte2{
+        display: flex;
+        justify-content: center;
+    }
+    
+    .texte2 p{
+        color: white;
+        font-size: 13px;
+        letter-spacing: 1px;
+    }
+    .texte2 p .span1{
+        margin-left: 15%;
+    }
+    .texte2 p .span2{
+        margin-left: 40%;
+    }
+
+
+
     
     .navbar-list{
         display: none;
@@ -438,7 +486,7 @@ span{
 
     section.head{
         background-color:#41828D;
-        height: 80vh;
+        height: 100vh;
     }
 
     .presentation{
@@ -500,7 +548,7 @@ span{
 
     .progrees{
         
-        padding-top: 55%;
+        padding-top: 75%;
     }
 
     .pro{
